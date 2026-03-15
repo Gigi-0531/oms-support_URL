@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OMS App Support</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f7f7f7;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+
+.container {
+max-width: 700px;
+margin: 60px auto;
+background: white;
+padding: 40px;
+border-radius: 10px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+h1 {
+color: #333;
+}
+
+p {
+color: #555;
+font-size: 18px;
+line-height: 1.6;
+}
+
+.email {
+font-size: 20px;
+font-weight: bold;
+margin-top: 20px;
+}
+
+.footer {
+margin-top: 40px;
+font-size: 14px;
+color: #888;
+} </style>
+
+</head>
+
+<body>
+
+<div class="container">
+<h1>OMS App Support</h1>
+
+<p>
+If you need help with the OMS mobile app, have questions, or want to report a problem,
+please contact our support team.
+</p>
+
+<div class="email">
+Email: gigy.3663@gmail.com
+</div>
+
+<p>
+We aim to respond to all inquiries as quickly as possible.
+</p>
+
+<div class="footer">
+© 2026 Gigi Digital LLC
+</div>
+
+</div>
+
+</body>
+</html>
